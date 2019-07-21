@@ -1,0 +1,10 @@
+"Bulbasaur"
+"Ivysaur"
+"Venusaur"
+"Squirtle"
+"Wartortle"
+"Blastoise"
+"Charmander"
+"Charmeleon"
+"Charazard"
+
